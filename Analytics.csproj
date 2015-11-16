@@ -246,6 +246,10 @@
     <Compile Include="Migrations\201511160719464_Hit.Designer.cs">
       <DependentUpon>201511160719464_Hit.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201511161426482_Changed Hit Date to string.cs" />
+    <Compile Include="Migrations\201511161426482_Changed Hit Date to string.Designer.cs">
+      <DependentUpon>201511161426482_Changed Hit Date to string.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -338,6 +342,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201511160719464_Hit.resx">
       <DependentUpon>201511160719464_Hit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201511161426482_Changed Hit Date to string.resx">
+      <DependentUpon>201511161426482_Changed Hit Date to string.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

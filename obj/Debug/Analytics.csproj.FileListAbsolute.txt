@@ -78,3 +78,4 @@ C:\Users\matthews\Desktop\dev\Analytics\Analytics\obj\Debug\Analytics.csproj.Gen
 C:\Users\matthews\Desktop\dev\Analytics\Analytics\obj\Debug\Analytics.Migrations.Site.resources
 C:\Users\matthews\Desktop\dev\Analytics\Analytics\obj\Debug\Analytics.Migrations.Hit.resources
 C:\Users\matthews\Desktop\dev\Analytics\Analytics\obj\Debug\Analytics.csprojResolveAssemblyReference.cache
+C:\Users\matthews\Desktop\dev\Analytics\Analytics\obj\Debug\Analytics.Migrations.ChangedHitDatetostring.resources

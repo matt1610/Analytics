@@ -9,7 +9,7 @@ namespace Analytics.Models
     {
         public int Id { get; set; }
         public string Site { get; set; }
-        public DateTime Date { get; set; }
+        public string Date { get; set; }
         public string Page { get; set; }
     }
 }
